@@ -1,0 +1,108 @@
+---
+object: card
+id: ad34094d-a7ec-4b04-a288-4d4f1a07fc6b
+oracle_id: e04fa58e-be7a-4c9c-98d0-48241742a41b
+multiverse_ids:
+- 2145
+tcgplayer_id: 1652
+cardmarket_id: 5896
+name: Backfire
+lang: en
+released_at: '1995-04-01'
+uri: https://api.scryfall.com/cards/ad34094d-a7ec-4b04-a288-4d4f1a07fc6b
+scryfall_uri: https://scryfall.com/card/4ed/62/backfire?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/d/ad34094d-a7ec-4b04-a288-4d4f1a07fc6b.jpg?1559603813
+  normal: https://cards.scryfall.io/normal/front/a/d/ad34094d-a7ec-4b04-a288-4d4f1a07fc6b.jpg?1559603813
+  large: https://cards.scryfall.io/large/front/a/d/ad34094d-a7ec-4b04-a288-4d4f1a07fc6b.jpg?1559603813
+  png: https://cards.scryfall.io/png/front/a/d/ad34094d-a7ec-4b04-a288-4d4f1a07fc6b.png?1559603813
+  art_crop: https://cards.scryfall.io/art_crop/front/a/d/ad34094d-a7ec-4b04-a288-4d4f1a07fc6b.jpg?1559603813
+  border_crop: https://cards.scryfall.io/border_crop/front/a/d/ad34094d-a7ec-4b04-a288-4d4f1a07fc6b.jpg?1559603813
+mana_cost: "{U}"
+cmc: 1.0
+type_line: Enchantment — Aura
+oracle_text: |-
+  Enchant creature
+  Whenever enchanted creature deals damage to you, Backfire deals that much damage to that creature's controller.
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Enchant
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2dd259d4-dc13-4956-a2dc-3e1d70b4a743
+set: 4ed
+set_name: Fourth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/2dd259d4-dc13-4956-a2dc-3e1d70b4a743
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A4ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/4ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ad34094d-a7ec-4b04-a288-4d4f1a07fc6b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae04fa58e-be7a-4c9c-98d0-48241742a41b&unique=prints
+collector_number: '62'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Brian Snõddy
+artist_ids:
+- 770b4e16-de76-49ed-949f-84e6d2e06d25
+illustration_id: bcc66e1d-2cbc-4464-bf0d-06c2c32577bc
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 19704
+prices:
+  usd: '0.20'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.16'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2145
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Backfire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Backfire&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Backfire
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/1652?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Backfire&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Backfire&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

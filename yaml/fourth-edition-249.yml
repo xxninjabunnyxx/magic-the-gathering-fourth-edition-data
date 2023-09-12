@@ -1,0 +1,112 @@
+---
+object: card
+id: 9dd711db-661d-4e2c-b817-0905e26ed929
+oracle_id: e740ce2f-2134-473c-afa1-1b6d2d1e38ef
+multiverse_ids:
+- 2216
+tcgplayer_id: 1768
+cardmarket_id: 5967
+name: Giant Spider
+lang: en
+released_at: '1995-04-01'
+uri: https://api.scryfall.com/cards/9dd711db-661d-4e2c-b817-0905e26ed929
+scryfall_uri: https://scryfall.com/card/4ed/249/giant-spider?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/d/9dd711db-661d-4e2c-b817-0905e26ed929.jpg?1559604200
+  normal: https://cards.scryfall.io/normal/front/9/d/9dd711db-661d-4e2c-b817-0905e26ed929.jpg?1559604200
+  large: https://cards.scryfall.io/large/front/9/d/9dd711db-661d-4e2c-b817-0905e26ed929.jpg?1559604200
+  png: https://cards.scryfall.io/png/front/9/d/9dd711db-661d-4e2c-b817-0905e26ed929.png?1559604200
+  art_crop: https://cards.scryfall.io/art_crop/front/9/d/9dd711db-661d-4e2c-b817-0905e26ed929.jpg?1559604200
+  border_crop: https://cards.scryfall.io/border_crop/front/9/d/9dd711db-661d-4e2c-b817-0905e26ed929.jpg?1559604200
+mana_cost: "{3}{G}"
+cmc: 4.0
+type_line: Creature — Spider
+oracle_text: Reach (This creature can block creatures with flying.)
+power: '2'
+toughness: '4'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Reach
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2dd259d4-dc13-4956-a2dc-3e1d70b4a743
+set: 4ed
+set_name: Fourth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/2dd259d4-dc13-4956-a2dc-3e1d70b4a743
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A4ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/4ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9dd711db-661d-4e2c-b817-0905e26ed929/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae740ce2f-2134-473c-afa1-1b6d2d1e38ef&unique=prints
+collector_number: '249'
+digital: false
+rarity: common
+flavor_text: While it possesses potent venom, the Giant Spider often chooses not to
+  paralyze its victims. Perhaps the creature enjoys the gentle rocking motion caused
+  by its captives' struggles to escape its web.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Sandra Everingham
+artist_ids:
+- 8a8ac2c8-84c9-4274-9960-a19a97f0bde5
+illustration_id: 045f9094-9db2-443b-9c9f-d03292f0c9d1
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 14518
+penny_rank: 12128
+prices:
+  usd: '0.07'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2216
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Giant+Spider&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Giant+Spider&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Giant+Spider
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/1768?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Giant+Spider&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Giant+Spider&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

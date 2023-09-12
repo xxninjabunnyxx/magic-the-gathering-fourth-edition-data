@@ -1,0 +1,112 @@
+---
+object: card
+id: e3009237-fb96-497f-9a6e-b93b8115528a
+oracle_id: '0669172d-396b-4f5a-9703-129c5c849b55'
+multiverse_ids:
+- 2150
+tcgplayer_id: 1727
+cardmarket_id: 5901
+name: Drain Power
+lang: en
+released_at: '1995-04-01'
+uri: https://api.scryfall.com/cards/e3009237-fb96-497f-9a6e-b93b8115528a
+scryfall_uri: https://scryfall.com/card/4ed/67/drain-power?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/3/e3009237-fb96-497f-9a6e-b93b8115528a.jpg?1559604243
+  normal: https://cards.scryfall.io/normal/front/e/3/e3009237-fb96-497f-9a6e-b93b8115528a.jpg?1559604243
+  large: https://cards.scryfall.io/large/front/e/3/e3009237-fb96-497f-9a6e-b93b8115528a.jpg?1559604243
+  png: https://cards.scryfall.io/png/front/e/3/e3009237-fb96-497f-9a6e-b93b8115528a.png?1559604243
+  art_crop: https://cards.scryfall.io/art_crop/front/e/3/e3009237-fb96-497f-9a6e-b93b8115528a.jpg?1559604243
+  border_crop: https://cards.scryfall.io/border_crop/front/e/3/e3009237-fb96-497f-9a6e-b93b8115528a.jpg?1559604243
+mana_cost: "{U}{U}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: Target player activates a mana ability of each land they control. Then
+  that player loses all unspent mana and you add the mana lost this way.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+produced_mana:
+- B
+- G
+- R
+- U
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2dd259d4-dc13-4956-a2dc-3e1d70b4a743
+set: 4ed
+set_name: Fourth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/2dd259d4-dc13-4956-a2dc-3e1d70b4a743
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A4ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/4ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e3009237-fb96-497f-9a6e-b93b8115528a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0669172d-396b-4f5a-9703-129c5c849b55&unique=prints
+collector_number: '67'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Douglas Shuler
+artist_ids:
+- a9ddb513-51c7-455c-ab8f-5b90aae9f75b
+illustration_id: 4d022231-73f2-499a-acc8-baa0e2ff8da2
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 12984
+prices:
+  usd: '1.26'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.10'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2150
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Drain+Power&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Drain+Power&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Drain+Power
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/1727?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Drain+Power&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Drain+Power&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

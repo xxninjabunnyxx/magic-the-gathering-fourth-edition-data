@@ -1,0 +1,115 @@
+---
+object: card
+id: b5900350-be08-4904-8f1b-cc180ed08485
+oracle_id: 759af941-f6a3-4726-91f2-9b1e4e55ea71
+multiverse_ids:
+- 2109
+tcgplayer_id: 1793
+cardmarket_id: 5860
+name: Hypnotic Specter
+lang: en
+released_at: '1995-04-01'
+uri: https://api.scryfall.com/cards/b5900350-be08-4904-8f1b-cc180ed08485
+scryfall_uri: https://scryfall.com/card/4ed/142/hypnotic-specter?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/5/b5900350-be08-4904-8f1b-cc180ed08485.jpg?1591104637
+  normal: https://cards.scryfall.io/normal/front/b/5/b5900350-be08-4904-8f1b-cc180ed08485.jpg?1591104637
+  large: https://cards.scryfall.io/large/front/b/5/b5900350-be08-4904-8f1b-cc180ed08485.jpg?1591104637
+  png: https://cards.scryfall.io/png/front/b/5/b5900350-be08-4904-8f1b-cc180ed08485.png?1591104637
+  art_crop: https://cards.scryfall.io/art_crop/front/b/5/b5900350-be08-4904-8f1b-cc180ed08485.jpg?1591104637
+  border_crop: https://cards.scryfall.io/border_crop/front/b/5/b5900350-be08-4904-8f1b-cc180ed08485.jpg?1591104637
+mana_cost: "{1}{B}{B}"
+cmc: 3.0
+type_line: Creature — Specter
+oracle_text: |-
+  Flying
+  Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.
+power: '2'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 2dd259d4-dc13-4956-a2dc-3e1d70b4a743
+set: 4ed
+set_name: Fourth Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/2dd259d4-dc13-4956-a2dc-3e1d70b4a743
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A4ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/4ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b5900350-be08-4904-8f1b-cc180ed08485/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A759af941-f6a3-4726-91f2-9b1e4e55ea71&unique=prints
+collector_number: '142'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "...There was no trace
+  Of aught on that illumined face...."
+  —Samuel Coleridge, "Phantom"
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Douglas Shuler
+artist_ids:
+- a9ddb513-51c7-455c-ab8f-5b90aae9f75b
+illustration_id: 30c37649-22d8-4526-90f3-d1602fd2994b
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 6237
+penny_rank: 479
+prices:
+  usd: '2.04'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.70'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2109
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hypnotic+Specter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hypnotic+Specter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hypnotic+Specter
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/1793?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hypnotic+Specter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hypnotic+Specter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
